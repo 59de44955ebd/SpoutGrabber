@@ -1,0 +1,37 @@
+﻿  amextra.cpp
+  amfilter.cpp
+  amvideo.cpp
+  arithutil.cpp
+  combase.cpp
+  cprop.cpp
+  ctlutil.cpp
+  ddmm.cpp
+  dllentry.cpp
+f:\projekte\__code\c_cpp\spout\spoutgrabber\spoutgrabber_msvc2017\baseclasses\source\dllentry.cpp(314): warning C4996: 'GetVersionExW': wurde als veraltet deklariert
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(387): note: Siehe Deklaration von "GetVersionExW"
+  dllsetup.cpp
+  mtype.cpp
+  outputq.cpp
+  perflog.cpp
+  pstream.cpp
+  pullpin.cpp
+  refclock.cpp
+  renbase.cpp
+  schedule.cpp
+  seekpt.cpp
+  source.cpp
+  Code wird generiert...
+  Kompilieren...
+  strmctl.cpp
+  sysclock.cpp
+  transfrm.cpp
+  transip.cpp
+  videoctl.cpp
+  vtrans.cpp
+  winctrl.cpp
+  winutil.cpp
+  wxdebug.cpp
+  wxlist.cpp
+  wxutil.cpp
+  Code wird generiert...
+  BaseClasses.vcxproj -> F:\PROJEKTE\__CODE\C_CPP\SPOUT\SpoutGrabber\spoutgrabber_msvc2017\lib\Win32\Release\BaseClasses.lib
